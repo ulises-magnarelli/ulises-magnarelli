@@ -2,7 +2,7 @@
 
 
 <ul>
-<li>-🔭 I’m currently working with JavaScript.</li>
+<li>🔭 I’m currently working with React</li>
 
 <li>🌱 I’m studying Systems Engineering at the National Technological University of Argentina, Buenos Aires.</li>
 <li>👯 I’m an enthusiastic individual who is eager to learn and thrive in an agile and dynamic environment with new challenges each day where I can contribute positively both as an individual as a team.</li>
